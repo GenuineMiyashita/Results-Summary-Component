@@ -62,13 +62,13 @@ ul {
     background: linear-gradient(var(--light-slate-blue), var(--light-royal-blue));
 }
 
-#result-container > h3 {
+#result-container > h1 {
     font-size: 1rem;
     color: var(--light-lavender);
     padding: 0.25rem 0 0.75rem 0;
 }
 
-#result-container > h4 {
+#result-container > h2 {
     font-size: 1.35rem;
     font-weight: 500;
     letter-spacing: 0.0625rem;
@@ -118,7 +118,7 @@ ul {
     width: 90%;
 }
 
-#summary-container > h3 {
+#summary-container > h1 {
     font-size: 1.15rem;
     padding: 0.5rem 0 0.5rem 0.5rem;
     align-self: flex-start;
