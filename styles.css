@@ -221,12 +221,12 @@ ul {
         border-radius: 2rem;
     }
 
-    #result-container > h3 {
+    #result-container > h1 {
         font-size: 1.25rem;
         padding: 0.25rem 0 1.75rem 0;
     }
 
-    #result-container > h4 {
+    #result-container > h2 {
         font-size: 1.50rem; 
         padding: 1.25rem 0 0.5rem 0;
     }
@@ -249,7 +249,7 @@ ul {
         box-shadow: 1rem 0.8rem 0.8rem hsl(231, 62%, 96%);
     }
 
-    #summary-container > h3 {
+    #summary-container > h1 {
         font-size: 1.25rem;
         padding: 1rem 0 0.5rem 1rem; 
     }
