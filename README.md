@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-CdsTxIFAbA)
-- Live Site URL: [Live](https://genuinemiyashita.github.io/Interactive-rating-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-6zpPHXUzZa)
+- Live Site URL: [Live](https://genuinemiyashita.github.io/results-summary-component-main/)
 
 ## My process
 
