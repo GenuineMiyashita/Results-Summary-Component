@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-6zpPHXUzZa)
-- Live Site URL: [Live](https://genuinemiyashita.github.io/results-summary-component-main/)
+- Live Site URL: [Live](https://genuinemiyashita.github.io/Results-Summary-Component/)
 
 ## My process
 
